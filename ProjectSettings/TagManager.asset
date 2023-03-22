@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - pole
+  - trophy
   layers:
   - Default
   - TransparentFX
