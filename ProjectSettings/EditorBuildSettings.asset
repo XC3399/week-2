@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/third person platformer.unity
+    guid: ab6fc984a8951144b9b8d01e08ebfe2d
   m_configObjects: {}
